@@ -6,6 +6,7 @@ using namespace std;
 
 int incrementVolume(int currentVolume)
 {
+
 	return currentVolume = currentVolume + 1;;
 }
 
